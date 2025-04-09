@@ -42,6 +42,9 @@ stewardship\
 Best practices in statistical computing\
 <https://pmc.ncbi.nlm.nih.gov/articles/PMC9662695/>
 
+Ten simple rules for reproducible computational research\
+<https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285>
+
 Good enough practices in scientific computing\
 <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510>
 
