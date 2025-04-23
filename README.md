@@ -51,6 +51,10 @@ Good enough practices in scientific computing\
 Variable Names in Survey Research\
 <https://medium.com/\@janschenk/variable-names-in-survey-research-a18429d2d4d8>
 
+Introduction to version control for researchers\
+<https://journals.lww.com/epidem/fulltext/2025/05000/advancing_reproducible_research_through_version.8.aspx>
+
+
 ## Data visualization
 
 The visual display of quantitative information, by Edward Tufte\
